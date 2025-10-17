@@ -1,5 +1,5 @@
 # Azlin Rusnan Portfolio
-A portfolio showcasing my projects and expertise in data analysis, machine learning, and data visualization.
+This portfolio showcasing my projects and expertise in data analysis, machine learning, and data visualization.
 
 ## Achievements
 - Recognized for academic excellence with a Master’s Degree (CGPA 3.70) and a Dean’s List Award (GPA 4.0).
