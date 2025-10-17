@@ -40,6 +40,6 @@ This study compares the vocal characteristics of Siti Nurhaliza in 2001 and 2022
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/AzlinRusnan/Portfolio/blob/main/Images/Meta-Age-Golden-Ticket-angle.jpg"> **[Ticket Age Prediction (Regression)](https://github.com/AzlinRusnan/Ticket_Age_Prediction_using_Regression Technique)**
+<img align="left" width="250" height="150" src="https://github.com/AzlinRusnan/Portfolio/blob/main/Images/Meta-Age-Golden-Ticket-angle.jpg"> **[Ticket Age Prediction (Regression)](https://github.com/AzlinRusnan/Ticket_Age_Prediction_using_Regression)**
 
 This project predicts how long IT support tickets will remain unresolved. It uses machine learning regression methods, like Random Forest and Gradient Boosting (GBM). 
