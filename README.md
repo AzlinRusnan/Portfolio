@@ -24,3 +24,8 @@ This project focuses on optimizing Customer Satisfaction (CSAT) analysis through
 
 This project focuses on analyzing bank turnover to identify key factors contributing to customer churn in the banking sector. By leveraging data-driven insights, we aim to propose strategies to improve customer retention and enhance service delivery.
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/AzlinRusnan/Portfolio/blob/main/Images/iStock-498532108-916x517-1.jpg"> **[Airlines On Time Analysis](https://github.com/AzlinRusnan/Analysis_of_Airlines_On_Time_Performance)**
+
+This project provides an analysis of flight delays and cancellations for an airline. The goal is to understand the key factors causing these issues and suggest ways to improve.
