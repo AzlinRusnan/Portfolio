@@ -29,3 +29,11 @@ This project focuses on analyzing bank turnover to identify key factors contribu
 <img align="left" width="250" height="150" src="https://github.com/AzlinRusnan/Portfolio/blob/main/Images/iStock-498532108-916x517-1.jpg"> **[Airlines On Time Analysis](https://github.com/AzlinRusnan/Analysis_of_Airlines_On_Time_Performance)**
 
 This project provides an analysis of flight delays and cancellations for an airline. The goal is to understand the key factors causing these issues and suggest ways to improve.
+
+#
+
+<br clear="left"/>
+
+<img align="left" width="250" height="150" src="https://github.com/AzlinRusnan/Portfolio/blob/main/Images/Transformasi-Siti-Nurhaliza.jpg"> **[Voice Aging Analysis: A Study on Siti Nurhaliza's Voice Using FFT and STFT](https://github.com/AzlinRusnan/Voice_Aging_Analysis_Using_Forier-Transform_FFT_and_STFT)**
+
+This study compares the vocal characteristics of Siti Nurhaliza in 2001 and 2022 by analysing the song "Azimat Cinta." The analysis includes waveform analysis, Fourier Transform (FFT), Short-Time Fourier Transform (STFT), and average spectrum analysis to identify changes due to aging.
